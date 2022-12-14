@@ -9,6 +9,10 @@
 
 ```docker run --name project82787 -p 8090:8080 project82787```
 
+## To build from existing image created ##
+
+```docker pull abhishekmedhane04/project82787:latest```
+
 ## Run an image ##
 
 ```docker-compose up -d```
